@@ -18,7 +18,7 @@ First include the necessary scripts.
 <script src="marker-animate.js"></script>
 ```
 
-Then call the methods on a marker.
+Create your map and markers and then call the methods on a marker.
 
 ```javascript
 // disable bounce animation
@@ -29,10 +29,13 @@ marker.animateTo(newPosition, duration, completeCallback);
 ```
 
 ## Demos
-- Demo 1: click anywhere on the map to move the pin to that position
-- Demo 2: custom bounce animation
-- Demo 3: custom bounce animation on Markers using [Map-Icons]
+- [Demo 1][demo-animateto]: click anywhere on the map to move the pin to that position
+- [Demo 2][demo-bounce]: custom bounce animation
+- [Demo 3][demo-bounce-icons]: custom bounce animation on Markers using [Map-Icons]
 
+[demo-animateto]: https://cdn.rawgit.com/nunof07/maps-marker-animate/v0.1.0/demos/animateto.html
+[demo-bounce]: https://cdn.rawgit.com/nunof07/maps-marker-animate/v0.1.0/demos/bounce.html
+[demo-bounce-icons]: https://cdn.rawgit.com/nunof07/maps-marker-animate/v0.1.0/demos/bounce-map-icons.html
 [map-icons]: https://github.com/scottdejonge/Map-Icons/
 
 ## Why?
