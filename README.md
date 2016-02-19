@@ -33,9 +33,9 @@ marker.animateTo(newPosition, duration, completeCallback);
 - [Demo 2][demo-bounce]: custom bounce animation
 - [Demo 3][demo-bounce-icons]: custom bounce animation on Markers using [Map-Icons]
 
-[demo-animateto]: https://cdn.rawgit.com/nunof07/maps-marker-animate/v0.1.0/demos/animateto.html
-[demo-bounce]: https://cdn.rawgit.com/nunof07/maps-marker-animate/v0.1.0/demos/bounce.html
-[demo-bounce-icons]: https://cdn.rawgit.com/nunof07/maps-marker-animate/v0.1.0/demos/bounce-map-icons.html
+[demo-animateto]: https://cdn.rawgit.com/nunof07/maps-marker-animate/v0.1.1/demos/animateto.html
+[demo-bounce]: https://cdn.rawgit.com/nunof07/maps-marker-animate/v0.1.1/demos/bounce.html
+[demo-bounce-icons]: https://cdn.rawgit.com/nunof07/maps-marker-animate/v0.1.1/demos/bounce-map-icons.html
 [map-icons]: https://github.com/scottdejonge/Map-Icons/
 
 ## Why?
